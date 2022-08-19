@@ -1,0 +1,7 @@
+.banner {
+    background-color: rgb(86, 122, 86);
+    color: white;
+    font-style: bold;
+    text-align: center;
+    padding: 10px; /* makes box bigger */
+}
